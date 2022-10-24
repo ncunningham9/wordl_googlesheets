@@ -2,7 +2,7 @@
 This is a Google Sheets version of the popular Wordl game. It should copy over to Excel fairly easily.
 
 Public Shared File (Viewer Only, make a copy if you'd like)
-https://docs.google.com/spreadsheets/d/17TYMWqSRLpHW71i1Y8BAk1ZXwztxB6tKJItn-cSpfos/edit?usp=sharing
+https://bit.ly/wordl_sheets_githublink 
 
 How it Works: 
 
